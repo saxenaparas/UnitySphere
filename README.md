@@ -12,7 +12,7 @@
 - **Tailwindcss**
 - **Socket.io**
 - **Prisma**
-- **MongoDB**
+- **TiDB Serverless**
 - **Shadcn/ui**
 - **LiveKit**
 - **Uploadthing**
