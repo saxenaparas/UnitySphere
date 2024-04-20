@@ -13,7 +13,7 @@ export default function AboveNavbar() {
         </a>
         <ul className="ml-16 inline-flex space-x-4 md:space-x-8 lg:space-x-12"> 
           <li>
-            <a href="https://viewsphere.vercel.app/" className="hover:bg-yellow-300 hover:text-gray-800 transition-colors duration-300 rounded-lg p-2">Home</a>
+            <a href="https://viewsphere.vercel.app/" className="hover:bg-yellow-300 hover:text-gray-800 transition-colors duration-300 rounded-lg p-2">Meeting Home</a>
           </li>
           <li>
             <a href="https://viewsphere.vercel.app/upcoming" className="hover:bg-yellow-300 hover:text-gray-800 transition-colors duration-300 rounded-lg p-2">Upcoming</a>
