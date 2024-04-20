@@ -1,16 +1,14 @@
 
-# Discord Clone 👾
+# UnitySphere 👾
 
-# App based on the tutorial off CodeWithAntonio
+# App Deployed On Railway.app
 
-Youtube: https://www.youtube.com/@codewithantonio
-
-Tutorial: https://youtu.be/ZbX4Ok9YX94?si=-bhD-OD0ocicHohv
+**Live On** : https://unitysphere-production.up.railway.app/
 
 ## Tech stack
 
 - **React**
-- **Next.js 13**
+- **Next.js 14**
 - **Tailwindcss**
 - **Socket.io**
 - **Prisma**
@@ -29,8 +27,7 @@ https://youtu.be/U-aNRVWFkz0
 - Send attachments as messages using UploadThing (images, pdfs)
 - Delete & Edit messages in real time for all users
 - Create Text, Audio and Video call Channels
-- 1:1 conversation between members
-- 1:1 video calls between members
+- 1:1 or 1:many conversation & video calls between members
 - Member management (Kick, Role change Guest / Moderator)
 - Unique invite link generation & full working invite system
 - Infinite loading for messages in batches of 10 (tanstack/query)
@@ -40,7 +37,7 @@ https://youtu.be/U-aNRVWFkz0
 - Light / Dark mode
 - Websocket fallback: Polling with alerts
 - ORM using Prisma
-- MongoDB database 
+- TiDB Serverless 
 - Authentication with Clerk
 
 ### Screenshots
@@ -53,7 +50,7 @@ https://youtu.be/U-aNRVWFkz0
 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/3.PNG)
 
-
+<!--
 MIT License
 
 Copyright (c) 2023 Antonio Erdeljac
@@ -75,3 +72,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+-->
+
+
