@@ -1,17 +1,17 @@
 
 # UnitySphere::🌐:
+
 Remote Team Collaboration Hub: A web application that enhances collaboration and productivity for remote teams. Provide features such as real-time messaging, file sharing, task management, and video conferencing to streamline communication and coordination among team members working from different locations.
 <!--👾 -->
 <!-- -->
 
-# App Deployed On Render & Vercel:
+## 🚀 App Deployed On Render & Vercel:
+
 **Live On Vercel** : [```UnitySphere.Vercel.App```](https://unitysphere.vercel.app)
-&nbsp; 
-&
-&nbsp; 
+&nbsp; & &nbsp; 
 **Live On Render** : [```UnitySphere.OnRender.Com```](https://unitysphere.onrender.com)
 
-## Tech Stack:
+## 🛠️ Tech Stack:
 
 - **React**
 - **Next.js 14**
@@ -25,11 +25,11 @@ Remote Team Collaboration Hub: A web application that enhances collaboration and
 - **Clerk**
 
 <!-- 
-### Presentation:
+## Presentation:
 https://youtu.be/U-aNRVWFkz0
 -->
 
-### Key Features:
+## 🔍 Key Features:
 
 - Real-time messaging using Socket.io
 - Send attachments as messages using UploadThing (images, pdfs)
@@ -48,7 +48,7 @@ https://youtu.be/U-aNRVWFkz0
 - TiDB Serverless 
 - Authentication with Clerk
 
-### Screenshots:
+## 🎞️ Screenshots:
 
 ![App Screenshot](https://github.com/saxenaparas/UnitySphere/blob/main/public/screenshots/UnityLogin.png)
 
