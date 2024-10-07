@@ -46,13 +46,16 @@ https://youtu.be/U-aNRVWFkz0
 
 ### Screenshots:
 
-![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/4.PNG)
+![App Screenshot](https://github.com/saxenaparas/UnitySphere/blob/main/public/screenshots/UnityLogin.png)
+
+![App Screenshot](https://github.com/saxenaparas/UnitySphere/blob/main/public/screenshots/UnityMain.png)
 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/2.PNG)
 
-![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/1.PNG)
 
+<!-- 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/3.PNG)
+-->
 
 <!--
 MIT License
