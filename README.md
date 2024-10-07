@@ -1,12 +1,12 @@
 
-# UnitySphere 👾
+# UnitySphere:👾:
 
 <!--
-# App Deployed On Render
+# App Deployed On Render & Vercel:
 **Live On** : [UnitySphere](https://unitysphere.onrender.com) 
 -->
 
-## Tech stack
+## Tech Stack:
 
 - **React**
 - **Next.js 14**
@@ -43,7 +43,7 @@ https://youtu.be/U-aNRVWFkz0
 - TiDB Serverless 
 - Authentication with Clerk
 
-### Screenshots
+### Screenshots:
 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/4.PNG)
 
