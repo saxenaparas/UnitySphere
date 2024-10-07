@@ -3,13 +3,14 @@
 
 Remote Team Collaboration Hub: A web application that enhances collaboration and productivity for remote teams. Provide features such as real-time messaging, file sharing, task management, and video conferencing to streamline communication and coordination among team members working from different locations.
 <!--👾 -->
-<!-- -->
 
+<!-- 
 ## 🚀 App Deployed On Render & Vercel:
 
 **Live On Vercel** : [```UnitySphere.Vercel.App```](https://unitysphere.vercel.app)
 &nbsp; & &nbsp; 
 **Live On Render** : [```UnitySphere.OnRender.Com```](https://unitysphere.onrender.com)
+-->
 
 ## 🛠️ Tech Stack:
 
