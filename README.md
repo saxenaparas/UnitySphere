@@ -50,6 +50,8 @@ https://youtu.be/U-aNRVWFkz0
 
 ![App Screenshot](https://github.com/saxenaparas/UnitySphere/blob/main/public/screenshots/UnityMain.png)
 
+![App Screenshot](https://github.com/saxenaparas/UnitySphere/blob/main/public/screenshots/ViewSphere.png)
+
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/Discord-Clone-NextJs/main/screenshots/2.PNG)
 
 
