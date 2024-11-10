@@ -1,7 +1,7 @@
 
 # UnitySphere::```🌐```:
 
-Remote Team Collaboration Hub: A web application that enhances collaboration and productivity for remote teams. Provide features such as real-time messaging, file sharing, task management, and video conferencing to streamline communication and coordination among team members working from different locations.
+Remote Team Collaboration Hub: A web application that enhances collaboration and productivity for remote teams. Provide features such as real-time messaging, file sharing, task management, and video conferencing to streamline communication and coordination among team members working from different locations. 
 
 <!--👾 -->
 
