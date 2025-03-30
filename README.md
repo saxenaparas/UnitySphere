@@ -22,6 +22,7 @@ Remote Team Collaboration Hub: A web application that enhances collaboration and
 - **Prisma**
 - **TiDB Serverless**
 - **Shadcn/ui**
+- **Radix UI**
 - **LiveKit**
 - **Uploadthing**
 - **Clerk**
